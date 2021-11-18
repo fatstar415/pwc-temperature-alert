@@ -1,0 +1,22 @@
+{
+  "name": "pwc-temperature-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "tempalert": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatstar415/pwc-temperature-alert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatstar415/pwc-temperature-alert/issues"
+  },
+  "homepage": "https://github.com/fatstar415/pwc-temperature-alert#readme"
+}
